@@ -1,0 +1,21 @@
+.searchContainer{
+    margin-top: 10px;
+    margin-bottom: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
+
+  .searchContainer,input{
+    padding: 5px ;
+  }
+
+  .searchSubmit{
+    cursor: pointer;
+    border: 1px solid rgb(22, 115, 209);
+    border-radius: 2px;
+    padding: 6px;
+    color: white;
+    font-size: 14px;
+    background-color: rgb(60, 152, 245);
+  }

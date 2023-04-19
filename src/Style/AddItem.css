@@ -1,0 +1,28 @@
+.list{
+    border: 1.3px solid #ff8150;
+    background-color: #ffd8c9;;
+    border-radius: 3px;
+    margin-left: 32.8%;
+    margin-top: 12px;
+    padding: 2px; 
+}
+
+.list, span{
+    padding: 12px 10px;
+    width: 32.5%;
+    list-style: none;
+  }
+
+  .btn{
+    cursor: pointer;
+    border-radius: 3px;
+    margin-left: 56%;
+    padding: 4px 15px;
+    border: none;
+    color: white;
+    background-color: #f5632a;
+  }
+
+  .btn:hover{
+    background-color: #df4e14;
+  }
